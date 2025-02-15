@@ -1,4 +1,4 @@
 # seagul-demo
 This is my second Git Repository
 <br>
-Author- Gautam Pandey
+Author- Gautam (from haldwani)
